@@ -1,0 +1,42 @@
+# This is a SAFE, FAKE test file. Nothing here is a real credential.
+# Use it to practice every grep command in this repo.
+
+## Config-style secrets
+aws_access_key_id = "AKIAFAKE1234567890AB"
+aws_secret_access_key = "fAkE/Secret+Key0123456789ABCDEFGHIJKLmnZ"
+api_key: "sk_test_51FakeKeyDoNotUse98765"
+GITHUB_TOKEN = "ghp_FakeToken1234567890ABCDEFabcdef12XYZ"
+GOOGLE_API_KEY = "AIzaFakeGoogleApiKey1234567890abcdeWXYZ"
+SLACK_TOKEN = "xoxb-fake-1234567890-abcdefghijklmnop"
+client_secret: "cs_FakeClientSecretValue0987654321"
+
+## A fake JWT
+auth_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmYWtlIjp0cnVlfQ.fakeSignaturePart123456"
+
+## A fake private key header
+-----BEGIN RSA PRIVATE KEY-----
+FAKEKEYDATAFAKEKEYDATAFAKEKEYDATA==
+-----END RSA PRIVATE KEY-----
+
+## URLs
+Visit https://example.com/docs/getting-started for setup help.
+Backup mirror: http://internal-service.local:8080/status
+
+## Emails
+Contact: subigya99@example.com
+Support: help+billing@example.co.uk
+
+## IP addresses
+Server A: 192.168.1.25
+Server B (public): 8.8.8.8
+Invalid example (should NOT match strict pattern): 999.999.999.999
+
+## Phone numbers
+Primary: +977-9812345678
+Alt: (555) 123-4567
+
+## MAC address
+Interface: 00:1A:2B:3C:4D:5E
+
+## Custom fixed-format string
+8299929AJJSO199018SUBIGYA70Q922NEPAL

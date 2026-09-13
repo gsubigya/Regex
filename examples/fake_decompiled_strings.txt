@@ -1,0 +1,12 @@
+Ldalvik/system/DexClassLoader;
+Ljava/lang/reflect/Method;
+Ljava/lang/Runtime;->exec
+Ljava/lang/ProcessBuilder;
+/system/bin/su
+javax/crypto/Cipher
+android/util/Base64;->decode
+http://185.220.101.47:8080/gate.php
+https://c2-fakepanel.evil-test.top/api/checkin
+tcp://192.168.56.101:4444
+ZmFrZV9wYXlsb2FkX2RhdGFfZm9yX3Rlc3Rpbmdfb25seQ==dGVzdGluZ19vbmx5X25vdF9yZWFs
+90 90 90 90 90 90 90 90 90 90 31 c0 50 68 2f 2f 73 68

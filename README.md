@@ -31,4 +31,4 @@ The patterns in this repo are meant for:
 - Learning regex through realistic, practical examples
 - Security research and malware/APK triage on samples and systems you own or are authorized to test
 
-Never use these patterns to search for or extract secrets, credentials, or personal data that you are not authorized to access. Only run the APK analysis patterns in file 5 against samples you're authorized to analyze.
+Never use these patterns to search for or extract secrets, credentials, or personal data that you are not authorized to access. Only run the APK analysis patterns in file samples you're authorized to analyze.
